@@ -1,3 +1,4 @@
+console.log('Exercício 7');
 const ada = {
   nome: 'Ada',
   idade: 36,
